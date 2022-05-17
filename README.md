@@ -1,16 +1,29 @@
-### Hi there 👋
+# Luiz Augusto Caznoca Souza
 
-<!--
-**luizaugustocs/luizaugustocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋  Hey there, I'm Luiz Augusto, a senior software developer at [Elotech](https://www.elotech.com.br/), where I develop an application used on the public management industry, more specifically on the taxes and payments division.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- 🌱 I'm currently learning: GraphQL and Relay
+- 🤔 What I want to learn next: Funcional Programming, 
+- 📫 How to reach me: `luizaugustocsouza@gmail.com`
+- 😄 Pronouns: he/him
+
+
+## Tools I hava experience with
+- React
+- React Native
+- Typescript
+- Java
+- Spring
+- Spring Boot
+- Keycloak
+- Hibernate
+- Gitlab CI
+- AWS
+
+## Tools I have interest in learning
+- Reason
+- TailwindCSS
+- Reason
+
